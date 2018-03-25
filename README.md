@@ -18,13 +18,20 @@ of percentage.
 MODULE DESIGN:
 
 MODULE 1: Input data from client using Graphical User Interface
+
 MODULE 2: Data transfer from client (student) to server (professor) via Socket Programming
+
 MODULE 3: Server receives Data & Data Storage in files for each client separately
+
 MODULE 4: Data fetching, tokenizing and Stop word Removal
+
 MODULE 5: Hashing calculations & saving
+
 MODULE 6: Hash Arrays Fetch and Comparison
+
 MODULE 7: Plagiarism Analysis between files collected
 
+--------------------------------------------------------------------------------------------
 
 - THIS PROJECT IS WRITTEN IN C LANGUAGE.
 - SOCKET PROGRAMMING IS USED.
